@@ -1,6 +1,6 @@
 import random
 import time
-
+# a
 
 def lire_temperature():
     
